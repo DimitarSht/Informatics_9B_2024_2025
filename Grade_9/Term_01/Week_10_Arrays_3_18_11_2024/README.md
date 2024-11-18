@@ -1,3 +1,3 @@
 # Какво правихме в час?
-- Обсъдихме задача 1, 2 от домашното; ["Решения тук"](https://github.com/DimitarSht/Informatics_9B_2024_2025/tree/main/Grade_9/Term_01/Week_10_Arrays_3_18_11_2024/Solutions)
-- Говорихме накратко за алгоритъма Linear Search. ["Повече информация тук"](https://github.com/DimitarSht/Informatics_9B_2024_2025/tree/main/Grade_9/Term_01/Week_10_Array_3_18_11_2024/Solutions/linearSearch.cpp)
+- Обсъдихме задача 1, 2 от домашното; [Решения тук](https://github.com/DimitarSht/Informatics_9B_2024_2025/tree/main/Grade_9/Term_01/Week_10_Arrays_3_18_11_2024/Solutions)
+- Говорихме накратко за алгоритъма Linear Search. [Повече информация тук](https://github.com/DimitarSht/Informatics_9B_2024_2025/blob/main/Grade_9/Term_01/Week_10_Arrays_3_18_11_2024/Solutions/linearSearch.cpp)
