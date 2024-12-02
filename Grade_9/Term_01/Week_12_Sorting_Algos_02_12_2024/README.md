@@ -1,3 +1,3 @@
 # Какво правихме в час?
-- Разгледахме алгоритмите за сортиране Bubble Sort и Selection Sort -> [имплементации тук]()
-- Решихме [задача 3 от файла](), задачи 1 и 2 остават за домашна работа
+- Разгледахме алгоритмите за сортиране Bubble Sort и Selection Sort -> [имплементации тук](https://github.com/DimitarSht/Informatics_9B_2024_2025/tree/main/Grade_9/Term_01/Week_12_Sorting_Algos_02_12_2024/Solutions)
+- Решихме [задача 3 от файла](https://github.com/DimitarSht/Informatics_9B_2024_2025/tree/main/Grade_9/Term_01/Week_12_Sorting_Algos_02_12_2024/Solutions), задачи 1 и 2 остават за домашна работа
