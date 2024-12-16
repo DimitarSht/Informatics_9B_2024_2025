@@ -1,0 +1,2 @@
+# Какво правихме в час?
+- Решихме задача 5 от последния файл в Мудъл -> [решение тук](https://github.com/DimitarSht/Informatics_9B_2024_2025/tree/main/Grade_9/Term_01/Week_14_Sorting_3_16_12_2024/Solutions)
