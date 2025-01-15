@@ -33,10 +33,7 @@ int main()
 
 }
 
-
-
-
-1 3 5 2 2
+////1 3 5 2 2
 
 bool hasTurningPoint = false;
 for(int i = 0; i < n; i++)
